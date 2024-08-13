@@ -1,0 +1,71 @@
+template: "online-cv"
+skin: "green"
+
+basic_info:
+    first_name: Daniel Ignacio
+    last_name: Molina Perez
+    motto: I like programming and reading new stuff
+    focus: Codes and novels
+    summary: |
+      Student of chemical engineering at "Universidad de Chile"/ Full stack developer.
+    avatar: 
+    email: danomolina@gmail.com
+    phone: 
+    website: 
+    linkedin: https://linkedin.com/in/daniel-ignacio-molina-perez-30429b29/
+    github: Danomolina
+    twitter: 
+    stack-overflow: 
+    languages:
+      - idiom: English
+        level: Advance
+      - idiom: Spanish
+        level: Native
+    interests:
+      - item: Movies
+      - item: Surfing
+      - item: Anime / Light Novel
+
+education:
+    - degree: License in civil engineering
+      time: 2011-2017
+      university: Universidad de Las Americas
+      details: |
+        I'm studying engineering, this career focuses on the modeling
+        of processes in the industrial environment either by making designs to 
+        create new machines for industrial requirements, designing the 
+        manufacture process of the products that we want to create, or 
+        making a process that already exists more efficient.
+
+experiences:
+    - role: Shopper
+      time: 2018 - Present
+      company: Cornershop, Chile
+      company_logo: https://pbs.twimg.com/profile_images/1390063964642451459/-gMVISav.jpg
+      details: |
+        In Cornershop, I am in charge of doing supermarket shopping for 
+        the customers of the app. The most important thing in this job 
+        is that you have to buy all the products as if they were for your 
+        own home, but listening to every request of the customer. In this
+        job, the most important part is the customer experience.
+
+    - role: Logistic Manager
+      time: 2014 - 2015
+      company: Pastenes S.A, Chile
+      details: |
+        I was in charge of designing routes for the distribution of 
+        alcoholic and non-alcoholic drinks for Concha y Toro S.A.
+        I was also in charge of the control and inspection of delivery 
+        and bills for Concha y Toro's order audit.
+        Finally, I had to make sure that the relationship with the final
+        client had the experience and quality that Concha y Toro
+        expected for its customers.
+
+skills:
+    toolset:
+      - name: HTML & CSS
+        level: 80%
+      - name: Python
+        level: 80%
+      - name: Bootstrap
+        level: 80%
